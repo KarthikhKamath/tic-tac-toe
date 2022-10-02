@@ -1,2 +1,2 @@
 # tic-tac-toe
-https://kart-tictactoe.netlify.app/
+Link to the deployed project : https://kart-tictactoe.netlify.app/
